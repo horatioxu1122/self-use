@@ -1,0 +1,14 @@
+{
+  "line1": {
+    "from": { "month": "01", "day": "01", "year": "2025" },
+    "to":   { "month": "01", "day": "07", "year": "2025" }
+  },
+  "line2": {
+    "from": { "month": "01", "day": "08", "year": "2025" },
+    "to":   { "month": "01", "day": "14", "year": "2025" }
+  },
+  "line3": {
+    "from": { "month": "01", "day": "15", "year": "2025" },
+    "to":   { "month": "01", "day": "21", "year": "2025" }
+  }
+}
