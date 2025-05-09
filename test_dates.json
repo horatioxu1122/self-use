@@ -1,8 +1,5 @@
 {
   "lineItems": [
-    { "fromDate": "05-01-2025", "toDate": "05-01-2025" },
-    { "fromDate": "05-01-2025", "toDate": "05-01-2025" },
-    { "fromDate": "05-01-2025", "toDate": "05-01-2025" },
-    { "fromDate": "05-01-2025", "toDate": "05-01-2025" }
+    { "fromDateMonth1": "05", "toDateMonth1": "05" },
   ]
 }
