@@ -1,0 +1,46 @@
+[
+  {
+    "line": 1,
+    "from": "12/04/2025",
+    "to": "12/04/2025",
+    "place": "99",
+    "hcpcs": "S5102",
+    "modifier": "U1",
+    "diagnosis": "A",
+    "charges": "100.00",
+    "units": "1"
+  },
+  {
+    "line": 2,
+    "from": "12/11/2025",
+    "to": "12/11/2025",
+    "place": "99",
+    "hcpcs": "S5102",
+    "modifier": "U1",
+    "diagnosis": "A",
+    "charges": "100.00",
+    "units": "1"
+  },
+  {
+    "line": 3,
+    "from": "12/18/2025",
+    "to": "12/18/2025",
+    "place": "99",
+    "hcpcs": "S5102",
+    "modifier": "U1",
+    "diagnosis": "A",
+    "charges": "100.00",
+    "units": "1"
+  },
+  {
+    "line": 4,
+    "from": "12/25/2025",
+    "to": "12/25/2025",
+    "place": "99",
+    "hcpcs": "S5102",
+    "modifier": "U1",
+    "diagnosis": "A",
+    "charges": "100.00",
+    "units": "1"
+  }
+]
