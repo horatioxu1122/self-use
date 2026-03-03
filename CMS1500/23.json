@@ -1,0 +1,90 @@
+[
+  {
+    "line": 1,
+    "from": "02/03/2026",
+    "to": "02/03/2026",
+    "place": "99",
+    "hcpcs": "S5102",
+    "modifier": "U1",
+    "diagnosis": "A",
+    "charges": "100.00",
+    "units": "1"
+  },
+  {
+    "line": 2,
+    "from": "02/04/2026",
+    "to": "02/04/2026",
+    "place": "99",
+    "hcpcs": "S5102",
+    "modifier": "U1",
+    "diagnosis": "A",
+    "charges": "100.00",
+    "units": "1"
+  },
+  {
+    "line": 3,
+    "from": "02/10/2026",
+    "to": "02/10/2026",
+    "place": "99",
+    "hcpcs": "S5102",
+    "modifier": "U1",
+    "diagnosis": "A",
+    "charges": "100.00",
+    "units": "1"
+  },
+  {
+    "line": 4,
+    "from": "02/11/2026",
+    "to": "02/11/2026",
+    "place": "99",
+    "hcpcs": "S5102",
+    "modifier": "U1",
+    "diagnosis": "A",
+    "charges": "100.00",
+    "units": "1"
+  },
+  {
+    "line": 5,
+    "from": "02/17/2026",
+    "to": "02/17/2026",
+    "place": "99",
+    "hcpcs": "S5102",
+    "modifier": "U1",
+    "diagnosis": "A",
+    "charges": "100.00",
+    "units": "1"
+  },
+  {
+    "line": 6,
+    "from": "02/18/2026",
+    "to": "02/18/2026",
+    "place": "99",
+    "hcpcs": "S5102",
+    "modifier": "U1",
+    "diagnosis": "A",
+    "charges": "100.00",
+    "units": "1"
+  },
+  {
+    "line": 7,
+    "from": "02/24/2026",
+    "to": "02/24/2026",
+    "place": "99",
+    "hcpcs": "S5102",
+    "modifier": "U1",
+    "diagnosis": "A",
+    "charges": "100.00",
+    "units": "1"
+  },
+  {
+    "line": 8,
+    "from": "02/25/2026",
+    "to": "02/25/2026",
+    "place": "99",
+    "hcpcs": "S5102",
+    "modifier": "U1",
+    "diagnosis": "A",
+    "charges": "100.00",
+    "units": "1"
+  }
+]
